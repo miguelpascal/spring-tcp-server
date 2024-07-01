@@ -1,4 +1,4 @@
-package com.zhwxp.sample.spring.boot.tcp.server.service;
+package com.moneycore.spring.boot.tcp.server.service;
 
 public interface MessageService {
 

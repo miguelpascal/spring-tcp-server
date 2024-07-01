@@ -1,6 +1,6 @@
-package com.zhwxp.sample.spring.boot.tcp.server.service.impl;
+package com.moneycore.spring.boot.tcp.server.service.impl;
 
-import com.zhwxp.sample.spring.boot.tcp.server.service.MessageService;
+import com.moneycore.spring.boot.tcp.server.service.MessageService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

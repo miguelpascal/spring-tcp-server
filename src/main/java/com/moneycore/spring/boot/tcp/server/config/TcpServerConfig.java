@@ -1,4 +1,4 @@
-package com.zhwxp.sample.spring.boot.tcp.server.config;
+package com.moneycore.spring.boot.tcp.server.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;

@@ -1,4 +1,4 @@
-package com.zhwxp.sample.spring.boot.tcp.server;
+package com.moneycore.spring.boot.tcp.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

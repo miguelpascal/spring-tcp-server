@@ -1,6 +1,6 @@
-package com.zhwxp.sample.spring.boot.tcp.server.endpoint;
+package com.moneycore.spring.boot.tcp.server.endpoint;
 
-import com.zhwxp.sample.spring.boot.tcp.server.service.MessageService;
+import com.moneycore.spring.boot.tcp.server.service.MessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.integration.annotation.MessageEndpoint;
 import org.springframework.integration.annotation.ServiceActivator;
